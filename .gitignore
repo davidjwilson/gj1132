@@ -1,0 +1,20 @@
+#ignore big ecsv files
+*sed_var_res_v*.ecsv
+#ignore fits files
+*x2d.fits
+*.fits
+#ignore trl files
+*.trl
+#infact ignore all ecsv files
+*.ecsv
+#ignore phoenix ecsvs
+*/phoenix_repo/*
+#ignore g+19 ir data
+/trappist-1/ir_data/PS*
+#ignore lyon models
+/trappist-1/optical/lyon_phoenix/*
+#recalibrations
+/trappist-1/STIS/raw_data/*
+/trappist-1/STIS/old/*
+#lyon files
+*spec.7*
