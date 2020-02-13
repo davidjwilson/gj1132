@@ -18,3 +18,5 @@
 /trappist-1/STIS/old/*
 #lyon files
 *spec.7*
+#apt
+*apt*
