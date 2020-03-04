@@ -1,0 +1,60 @@
+(RPS-Stamp
+   :proposal 0
+   :absolute-time 3792348053
+   :sub-system "APT"
+   :version "2020.1.2"
+   :file-name "0-002.tv-tic"
+)
+
+(Tic-Visit
+ :proposal-id 0
+ :visit-id "002"
+ :proposal-version -1
+ :date "Wed Mar 04 22:00:52 GMT 2020"
+ :number-of-orbits 2
+ :saa-model "05"
+ :si-bright-earth-limb-angle 20.0
+ :data-volume 0
+ :tdrss-contact-duration 0
+ )
+
+(Tic-Obset
+ :proposal-id 0
+ :visit-id "002"
+ :obset-id "002"
+ :pcs-mode "FGS"
+ )
+
+(Tic-Orbit
+ :cvz NIL
+ :proposal-id 0
+ :visit-id "002"
+ :orbit-number 1
+ :pcs-time 365
+ :si-vis-utilization 2568
+ :dark-offset NIL
+ :dark-utilization 0
+ :max-dark-utilization 1920
+ :low-sky "N"
+ :pcs-visibility 2933
+ :pcs-gap 0
+ )
+
+(Tic-Orbit
+ :cvz NIL
+ :proposal-id 0
+ :visit-id "002"
+ :orbit-number 2
+ :pcs-time 360
+ :si-vis-utilization 2573
+ :dark-offset NIL
+ :dark-utilization 0
+ :max-dark-utilization 1920
+ :low-sky "N"
+ :pcs-visibility 2933
+ :pcs-gap 0
+ )
+
+(End-RPS-File
+   :checksum 0
+)

@@ -1,0 +1,19 @@
+(RPS-Stamp
+   :proposal 0
+   :absolute-time 3792348053
+   :sub-system "APT"
+   :version "2020.1.2"
+   :file-name "0.ldf"
+)
+
+(define-sequential-link
+   :proposal-id 0
+   :visit1-id "001"
+   :visit2-id "002"
+   :minimum-separation 2592000.0
+   :maximum-separation 8.64E7
+   :link-type :after
+)
+(End-RPS-File
+   :checksum 0
+)

@@ -1,0 +1,15 @@
+(RPS-Stamp
+  :proposal 0
+  :visit "002"
+  :absolute-time 3792348053
+  :sub-system "CASM"
+  :version "28.0"
+  :file-name "0-002.cv-diag"
+  :constraint-set "nov19-phase1-3g"
+  :control-file "phase1-3g"
+)
+
+
+(End-RPS-File
+  :checksum 0
+)
